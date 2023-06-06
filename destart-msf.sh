@@ -38,20 +38,20 @@ clear
 sleep 1 
 echo -e ${WHITE}[${GREEN}+${WHITE}] ${GREEN}Opening vedio please on the net... | pv -qL 40
 sleep 3
-termux-open-url https://youtube.com/@bugflixer
+termux-open-url https://youtube.com/@bugflixerr
 clear
-echo -e ${GREEN}'TO RUN AGAIN TYPE [bash start] ' | pv -qL 35
+echo -e ${GREEN}'TO RUN AGAIN TYPE [bash destart-msf.sh] ' | pv -qL 35
 sleep 3
 fi
 if [[ $key == *'1'* ]]; then
 sleep 1
 echo -e ${WHITE}[${GREEN}+${WHITE}] ${GREEN}Opening watsapp please on the net... | pv -qL 40
 sleep 3
-termux-open-url https://wa.me/%2B919756431740?text=%5B%20PLZZ%20GIVE%20ME%20TOPIC%20-%203%20VEDIO%20KEY%20%5D
+termux-open-url https://wa.me/%2B919756431740?text=%5B%20PLZZ%20GIVE%20ME%20TOPIC%20-%202%20VEDIO%20KEY%20%5D
 clear
 sleep 2
 clear
-echo -e ${GREEN}'TO RUN AGAIN TYPE [bash start] '  | pv -qL 35
+echo -e ${GREEN}'TO RUN AGAIN TYPE [bash destart-msf.sh] '  | pv -qL 35
 sleep 3
 fi
 if [[ $key == *'2'* ]]; then
