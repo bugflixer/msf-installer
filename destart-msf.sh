@@ -38,7 +38,7 @@ clear
 sleep 1 
 echo -e ${WHITE}[${GREEN}+${WHITE}] ${GREEN}Opening vedio please on the net... | pv -qL 40
 sleep 3
-termux-open-url https://www.youtube.com/@bugflixerr
+termux-open-url https://youtu.be/cPSbIjSGZsM
 clear
 echo -e ${GREEN}'TO RUN AGAIN TYPE [bash destart-msf.sh] ' | pv -qL 35
 sleep 3
