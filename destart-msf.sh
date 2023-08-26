@@ -47,7 +47,7 @@ if [[ $key == *'1'* ]]; then
 sleep 1
 echo -e ${WHITE}[${GREEN}+${WHITE}] ${GREEN}Opening watsapp please on the net... | pv -qL 40
 sleep 3
-termux-open-url https://wa.me/%2B917252809971?text=%5B%20PLZZ%20GIVE%20ME%20TOPIC%20-%202%20VEDIO%20KEY%20%5D
+termux-open-url https://wa.me/%2B918475821744?text=%5B%20PLZZ%20GIVE%20ME%20TOPIC%20-%202%20VEDIO%20KEY%20%5D
 clear
 sleep 2
 clear
@@ -64,7 +64,7 @@ sleep 2
 echo -e ${WHITE}[${RED}×${WHITE}] ${RDD}Wrong key... | pv -qL 25
 sleep 3
 echo -e ${WHITE}[${RED}+${RED}] ${GREEN}Sending request to get key... | pv -qL 25
-termux-open-url https://wa.me/%2B917252809971?text=%5B%20PLZZ%20GIVE%20ME%20TOPIC%20-%202%20VEDIO%20KEY%20%5D
+termux-open-url https://wa.me/%2B918475821744?text=%5B%20PLZZ%20GIVE%20ME%20TOPIC%20-%202%20VEDIO%20KEY%20%5D
 sleep 2
 clear
 echo -e ${GREEN}'TO RUN AGAIN TYPE [bash start] '  | pv -qL 35
