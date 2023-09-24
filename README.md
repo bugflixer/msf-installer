@@ -65,8 +65,8 @@ __METASPLOIT DELETE__ :
 
 ## CONNECT WITH US :
 
-<a href="https://rb.gy/p3idf"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://rb.gy/eos8t"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Noob Hackers-red?style=for-the-badge&logo=Instagram"></a>
+<a href="https://rb.gy/p3idf"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Bugflixer-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rb.gy/eos8t"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Bugflixer-red?style=for-the-badge&logo=Instagram"></a>
 ## BUY ME A COFFEE :
 
 <p align="center">
