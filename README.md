@@ -70,7 +70,7 @@ __METASPLOIT DELETE__ :
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="bugflixer" src="https://t.me/@bugflixerr"></a>
+<a href="https://t.me/@bugflixerr"><img title="bugflixer" src="https://t.me/@bugflixerr"></a>
 </p>
 
 ## WARNING : 
