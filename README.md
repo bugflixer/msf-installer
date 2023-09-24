@@ -1,3 +1,10 @@
+## WATCH VIDEO [Termux]
+
+[![Video Title](https://img.youtube.com/vi/cPSbIjSGZsM/0.jpg)](https://youtu.be/cPSbIjSGZsM)
+
+
+
+
 ## ABOUT TOOL :
 
 M-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
@@ -55,11 +62,6 @@ __METASPLOIT REPAIR__ :
 
 __METASPLOIT DELETE__ :
 - From this tool you can delete your old metasploit-framework from your termux application easyli.
-
-## WATCH VIDEO [Termux]
-
-[![Video Title](https://img.youtube.com/vi/cPSbIjSGZsM/0.jpg)](https://youtu.be/cPSbIjSGZsM)
-
 
 ## CONNECT WITH US :
 
