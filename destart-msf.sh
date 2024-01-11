@@ -78,7 +78,7 @@ sleep 2
 echo ${WHITE}[${GREEN}√${WHITE}] ${GREEN}Access granted...  | pv -qL 40
 sleep 2
 clear
-
+export USER_ACCESS_GRANTED=true # Set access flag
 echo ${WHITE}[${RED}+${WHITE}] ${RED}Insalling our tool... | pv -qL 35
 cd
 cp -rf $HOME/msf-installer/l/installmsf.sh  /$HOME
