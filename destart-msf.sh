@@ -81,6 +81,8 @@ clear
 export USER_ACCESS_GRANTED=true # Set access flag
 echo ${WHITE}[${RED}+${WHITE}] ${RED}Insalling our tool... | pv -qL 35
 cd
+pkg install wget curl openssh git -y
+pkg install ncurses-utils 
 cp -rf $HOME/msf-installer/l/installmsf.sh  /$HOME
 echo ${WHITE}[${GREEN}√${WHITE}] ${GREEN}Installed successfully... | pv -qL 25
 sleep 2
